@@ -1,6 +1,6 @@
-# AppDynamics tech talk for Brown
+# AppDynamics tech talk for UC Berkeley
 
-Fall 2013
+Winter 2014
 
 ## Instructions
 
@@ -10,4 +10,4 @@ Fall 2013
 
 ## License
 
-Copyright (C) 2013 AppDynamics
+Copyright (C) 2014 AppDynamics
